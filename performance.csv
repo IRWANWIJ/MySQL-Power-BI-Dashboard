@@ -1,0 +1,18 @@
+departmenttype,"Performance Score",num_emp,total_per_dep,"CONCAT(ROUND((num_emp / total_per_dep)*100,0), '%')"
+"Admin Offices","Fully Meets",21,32,66%
+"Admin Offices",PIP,3,32,9%
+"Admin Offices",Exceeds,8,32,25%
+"Executive Office",PIP,1,5,20%
+"Executive Office","Fully Meets",4,5,80%
+IT/IS,"Needs Improvement",9,206,4%
+IT/IS,"Fully Meets",173,206,84%
+IT/IS,PIP,10,206,5%
+IT/IS,Exceeds,14,206,7%
+"Production       ","Fully Meets",756,1006,75%
+"Production       ",Exceeds,148,1006,15%
+"Production       ",PIP,30,1006,3%
+"Production       ","Needs Improvement",72,1006,7%
+Sales,"Fully Meets",154,167,92%
+Sales,Exceeds,8,167,5%
+Sales,"Needs Improvement",5,167,3%
+"Software Engineering","Fully Meets",51,51,100%
